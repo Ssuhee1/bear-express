@@ -1,0 +1,23 @@
+{
+  "name": "bear-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ssuhee1/bear-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ssuhee1/bear-express/issues"
+  },
+  "homepage": "https://github.com/Ssuhee1/bear-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
